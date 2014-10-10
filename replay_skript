@@ -1,0 +1,4 @@
+while IFS=, read timeout nick line; do
+	sleep $timeout
+	printf "$line\r\n"
+done

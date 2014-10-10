@@ -1,0 +1,5 @@
+while read nick; do
+	printf "0,%s,NICK %s\r\n" "$nick" "$nick"
+	printf "0,%s,USER %s %s localhost :%s\r\n" "$nick" "$nick" "$nick" "$nick"
+	printf "0,%s,JOIN #kitinfo\r\n" "$nick"
+done

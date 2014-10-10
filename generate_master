@@ -1,0 +1,5 @@
+cat nicks | ./generate_joins > output.skript
+cat skript.txt | ./generate_says >> output.skript
+cat nicks | ./generate_quits >> output.skript
+cat output.skript | ./process_skript
+

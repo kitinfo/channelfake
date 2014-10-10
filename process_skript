@@ -1,0 +1,25 @@
+#!/bin/bash
+
+MAIN_TIME=0
+
+rm *.gen
+
+while IFS=, read timeout name line; do
+	MAIN_TIME=$(($MAIN_TIME+$timeout))
+	if [ -f $name.last ]; then
+		NICK_LAST=$(cat $name.last)
+	else
+		#NICK_LAST=$MAIN_TIME
+		NICK_LAST=0
+	fi
+
+	NICK_WAIT=$(($MAIN_TIME-$NICK_LAST))
+
+	printf "(MAIN_TIME %s, NICK_LAST %s, NICK_WAIT %s) %s: %s\n" "$MAIN_TIME" "$NICK_LAST" "$NICK_WAIT" "$name" "$line"
+	printf "$NICK_WAIT,$name,$line\r\n" >> $name.gen
+
+	printf "$MAIN_TIME" > $name.last
+
+done
+
+rm *.last

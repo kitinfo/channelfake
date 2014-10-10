@@ -1,0 +1,37 @@
+10,cbdev,THE BEGINNING
+20,Le_Chasseur,so viele erstis :D
+2,cbdev,oh boy :D
+3,cbdev,kann ja nur gut werden^^
+1,null_ptr,muss ja
+2,neun,alles gut vorbereitet?
+1,Indidev,joa der bollerwagen steht soweit die koennen kommen
+1,halfur,wie viele sind so da?
+0,another,samma wann sind wir eigentlich dran?
+3,klaxa,schon einige
+1,cbdev,soll ich wieder reden oder will wer anders das machen?
+3,klaxa,die verarsche war schon awesome :D
+1,drone,another: bald :D
+3,null_ptr,cbdev mach du mal, wir sind alle faul
+1,cbdev,meh ok
+4,vehk,sollten wir nicht langsam mal auf die buehne?
+0,drone,wir sollten langsam mal
+0,sycoso,will nicht langsam mal wer vorgehen und was erzaehlen?
+2,cbdev,oh fck ja stimmt
+1,c_14,auf auf!!! faule saecke ;)
+2,cbdev,cool your jets
+1,cbdev,here we go ;)
+5,mpease,ah cbdev macht wieder die vorstellung?
+2,Yarla,sonst machts ja keiner ;-) ausserdem spammt der ja sonst auch ganz gut :P
+3,drone,schnell lasst ueber ihn laestern wahrend er redet!
+2,Indidev,auf jeden! de cbdev is voll unfaehig!
+1,another,ja man
+2,brati,ach ihr mobbt ihn jetzt nebenher wo ers nicht sieht? :D
+1,sycoso,ach seid doch ned so fies :D
+4,momorientes,na was will man auch sonst machen
+1,klaxa,huehue ich bin auf der leinwand
+2,klaxa,HALLO MAMA
+1,drone,lol
+1,patagonicus,was wir sind live?
+2,klaxa,natuerlich
+1,another,ja klar was erwartest du von uns
+10,cbdev,THE END

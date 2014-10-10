@@ -1,0 +1,7 @@
+0,topic,NICK cbdev
+0,topic,USER cbdev cbdev localhost :cbdev
+0,topic,MODE cbdev +i
+0,topic,MODE cbdev +x
+1,topic,JOIN #kitinfo
+1,topic,TOPIC #kitinfo :Irgendwann mal #kitinfo-Essen, irgendwer verantwortlich | Jeden zweiten Mittwoch Spieleabend mit Arrrrr | We make porn use more data. || We are so Meta, even that Acronym. | http://kitinfo.de/ || Bier vor Klausuren bringt vier in Zensuren | Images: http://kitinfo.de/img/ || Implicit WTFPL enforced.
+2,topic,QUIT :bye

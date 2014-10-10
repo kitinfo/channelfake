@@ -1,0 +1,5 @@
+#!/bin/sh
+for generated in $(ls *.gen); do
+	printf "Starting $generated"
+	cat $generated | ./replay_skript | nc localhost 6667 &
+done

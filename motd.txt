@@ -1,0 +1,2 @@
+Welcome to the Server. This is the MOTD
+Fill me with stuff.

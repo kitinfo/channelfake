@@ -1,0 +1,4 @@
+#!/bin/bash
+while IFS=, read timeout nick line; do
+	printf "$timeout,$nick,PRIVMSG #kitinfo :$line\r\n"
+done
