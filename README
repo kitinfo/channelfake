@@ -1,0 +1,13 @@
+This whole thing is really unsafe and hacky and could blow up any minute.
+Dont use it.
+
+Now that you know what not to do, heres how its done:
+
+Boot grml
+Get network connectivity
+Clone the repo
+sudo echo "84.240.3.129 irc.freenode.net" >> /etc/hosts
+./start_server
+Follow on-screen instructions for time magics
+./generate_master to generate the user scripts from skript.txt and the nicks file
+./clientify to run the magic
