@@ -6,6 +6,7 @@ Now that you know what not to do, heres how its done:
 Boot grml
 Get network connectivity
 Clone the repo
+Remove network connectivity
 sudo echo "84.240.3.129 irc.freenode.net" >> /etc/hosts
 ./start_server
 Follow on-screen instructions for time magics
