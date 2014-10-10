@@ -28,11 +28,13 @@
 2,brati,ach ihr mobbt ihn jetzt nebenher wo ers nicht sieht? :D
 1,sycoso,ach seid doch ned so fies :D
 4,momorientes,ob das die ersties verwirrt wenn ich hier einfach mal schinken schreibe?
-1,klaxa,huehue ich bin auf der leinwand
-2,klaxa,HALLO MAMA
+1,klaxa,huehuehue ich bin auf der leinwand
+2,klaxa,HALLO ERSTIS
 1,drone,lol
 1,patagonicus,was wir sind live?
 2,klaxa,natuerlich
 1,another,ja klar was erwartest du von uns
+2,neun,nur das beste
+1,kirine,HAIL FATFOX!!!
 10,cbdev,THE END
 1,momorientes,schinken
