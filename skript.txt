@@ -27,7 +27,7 @@
 1,another,ja man
 2,brati,ach ihr mobbt ihn jetzt nebenher wo ers nicht sieht? :D
 1,sycoso,ach seid doch ned so fies :D
-4,momorientes,na was will man auch sonst machen
+4,momorientes,ob das die ersties verwirrt wenn ich hier einfach mal schinken schreibe?
 1,klaxa,huehue ich bin auf der leinwand
 2,klaxa,HALLO MAMA
 1,drone,lol
@@ -35,3 +35,4 @@
 2,klaxa,natuerlich
 1,another,ja klar was erwartest du von uns
 10,cbdev,THE END
+1,momorientes,schinken
