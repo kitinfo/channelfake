@@ -4,6 +4,9 @@ Dont use it.
 Now that you know what not to do, heres how its done:
 
 Boot grml
+No really, dont try it on your machine.
+It modifies network settings, current date and time and creates a truckload of processes.
+Anyway, boot grml.
 Get network connectivity
 Clone the repo
 Remove network connectivity
