@@ -3,3 +3,5 @@ for generated in $(ls *.gen); do
 	printf "Starting $generated"
 	cat $generated | ./replay_skript | nc irc.freenode.net 6667 &
 done
+
+wait
